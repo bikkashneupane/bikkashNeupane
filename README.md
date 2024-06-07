@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikkashneupane&label=Profile%20views&color=0e75b6&style=flat" alt="bikkashneupane" /> </p>
 
-- 🔭 I’m currently working on [Full Stack Library Management](https://github.com/neupanebikash/frontend-library-management-practice https://github.com/neupanebikash/backend-library-management-practice)
+- 🔭 I’m currently working on [Full Stack Library Management]
+- (https://github.com/neupanebikash/frontend-library-management-practice
+- https://github.com/neupanebikash/backend-library-management-practice)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
