@@ -11,6 +11,7 @@
   </a>
 </p>
 
+<h3 align="left">📫 Let's get Connected</h3>
 <p align="left">
   <a href="https://www.github.com/bikkashneupane" target="_blank" rel="noreferrer">
     <picture>
@@ -74,12 +75,12 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
   </a>
   
-  <a href="https://stripe.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg" width="36" height="36" alt="Stripe" />
+   <a href="https://stripe.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Stripe_logo.svg" alt="Stripe" width="40" height="40" />
   </a>
   
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" width="40" height="40" />
   </a>
 
   <a href="https://www.figma.com" target="_blank" rel="noreferrer">
@@ -90,7 +91,7 @@
 <h3 align="left">📈 GitHub Stats:</h3>
 <p align="left">
   <a href="http://www.github.com/bikkashneupane">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikkashneupane&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikkashneupane&stroke=ffffff&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </p>
 
