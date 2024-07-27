@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bikash Neupane</h1>
 <h3 align="center">A FullStack Developer from Sydney</h3>
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Bikash Neupane
+=====================================================================================================================================
+
+Full Stack Developer
+--------------------
+
+* 🌍  I'm based in Sydney, Australia
+* 🖥️  My Portfolio [Portfolio](https://bikash-2024-portfolio.vercel.app/)
+* ✉️  Lets Connect [Gmail](mailto:thisisbikkash@gmail.com) <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /> (https://www.linkedin.com/in/bikkashneupane/)
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bikkashneupane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
