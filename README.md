@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bikash Neupane</h1>
-<h3 align="center">A FullStack Developer from Sydney</h3>
+<h1 align="left">Hi 👋, I'm Bikash Neupane</h1>
+<h3 align="left">A FullStack Developer from Sydney</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bikkashneupane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -76,11 +76,11 @@
   </a>
   
   <a href="https://stripe.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/stripe-colored.svg" width="36" height="36" alt="Stripe" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg" width="36" height="36" alt="Stripe" />
   </a>
   
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />
   </a>
 
   <a href="https://www.figma.com" target="_blank" rel="noreferrer">
@@ -91,7 +91,7 @@
 <h3 align="left">📈 GitHub Stats:</h3>
 <p align="left">
   <a href="http://www.github.com/bikkashneupane">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikkashneupane&stroke=ffffff&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikkashneupane&hide_date=true&stroke=ffffff&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </p>
 
