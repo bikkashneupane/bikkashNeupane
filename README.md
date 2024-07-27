@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Bikash Neupane</h1>
-<h3 align="left">A FullStack Developer from Sydney</h3>
+<h1 align="center">Hi 👋, I'm Bikash Neupane</h1>
+<h3 align="center">A FullStack Developer from Sydney</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bikkashneupane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -89,14 +89,17 @@
 </p>
 
 <h3 align="left">📈 GitHub Stats:</h3>
-<p align="left">
-  <a href="http://www.github.com/bikkashneupane">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikkashneupane&stroke=ffffff&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/bikkashneupane">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="http://www.github.com/bikkashneupane">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikkashneupane&stroke=ffffff&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/bikkashneupane">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
