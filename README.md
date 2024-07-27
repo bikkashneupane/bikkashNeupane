@@ -11,7 +11,6 @@
   </a>
 </p>
 
-<h3 align="left">📫 Let's get Connected</h3>
 <p align="left">
   <a href="https://www.github.com/bikkashneupane" target="_blank" rel="noreferrer">
     <picture>
@@ -91,7 +90,7 @@
 <h3 align="left">📈 GitHub Stats:</h3>
 <p align="left">
   <a href="http://www.github.com/bikkashneupane">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikkashneupane&hide_date=true&stroke=ffffff&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikkashneupane&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </p>
 
