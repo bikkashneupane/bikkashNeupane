@@ -6,13 +6,13 @@
 </p>
 
 <p align="left">
-  <a href="https://bikash-2024-portfolio.vercel.app" target="_blank" style="text-decoration:none;">
+  <a href="https://bikash-2024-portfolio.vercel.app" target="_blank" style="text-decoration:none;" target="_blank">
     🚀 My Portfolio Website
   </a>
 </p>
 
 <p align="left">
-  <a href="https://vikiasmy-watches.vercel.app" target="_blank" style="text-decoration:none;">
+  <a href="https://vikiasmy-watches.vercel.app" target="_blank" style="text-decoration:none;" target="_blank">
     🚀 My latest Project (Vikiasmy's Watches)
   </a>
 </p>
