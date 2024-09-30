@@ -6,19 +6,19 @@
 </p>
 
 <p align="left">
-  <a href="https://bikash-2024-portfolio.vercel.app" target="_blank" style="text-decoration:none;" target="_blank">
+  <a href="https://bikashneupane.com" target="_blank" style="text-decoration:none;" target="_blank">
     🚀 My Portfolio Website
   </a>
 </p>
 
 <p align="left">
-  <a href="https://vikiasmy-watches.vercel.app" target="_blank" style="text-decoration:none;" target="_blank">
+  <a href="https://vikiasmy.bikashneupane.com" target="_blank" style="text-decoration:none;" target="_blank">
     🚀 My latest Project (Vikiasmy's Watches)
   </a>
 </p>
 
 <p align="left">
-  <a href="https://vikiasmy-watches-admin-cms.vercel.app" target="_blank" style="text-decoration:none;" target="_blank">
+  <a href="https://vikiasmy-admin.bikashneupane.com" target="_blank" style="text-decoration:none;" target="_blank">
     🚀 My latest Project (Vikiasmy's Watches Admin CMS)
   </a>
 </p>
