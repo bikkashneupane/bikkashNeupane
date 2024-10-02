@@ -47,13 +47,21 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
-  
+
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  </a>
+
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" />
+</a>
+
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
   </a>
   
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="40" height="40" alt="Express" />
+    <img src="https://banner2.cleanpng.com/20180604/xox/aa9p2moi4.webp" width="40" height="40" alt="Express" style={{color:"blue"}}/>
   </a>
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -88,9 +96,9 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
   </a>
   
-   <a href="https://stripe.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Stripe_logo.svg" alt="Stripe" width="40" height="40" />
-  </a>
+  <a href="https://stripe.com" target="_blank" rel="noreferrer">
+  <img src="https://logos-world.net/wp-content/uploads/2021/03/Stripe-Logo-700x394.png" alt="Stripe" width="40" height="40" />
+</a>
   
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" width="40" height="40" />
