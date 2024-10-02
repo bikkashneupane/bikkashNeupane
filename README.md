@@ -49,7 +49,7 @@
   </a>
 
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -61,7 +61,7 @@
   </a>
   
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://banner2.cleanpng.com/20180604/xox/aa9p2moi4.webp" width="40" height="40" alt="Express" style={{color:"blue"}}/>
+    <img src="https://banner2.cleanpng.com/20180604/xox/aa9p2moi4.webp" width="60" height="40" alt="Express.js"/>
   </a>
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -97,7 +97,7 @@
   </a>
   
   <a href="https://stripe.com" target="_blank" rel="noreferrer">
-  <img src="https://logos-world.net/wp-content/uploads/2021/03/Stripe-Logo-700x394.png" alt="Stripe" width="40" height="40" />
+  <img src="https://logos-world.net/wp-content/uploads/2021/03/Stripe-Logo-700x394.png" alt="Stripe" width="50" height="40" />
 </a>
   
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
