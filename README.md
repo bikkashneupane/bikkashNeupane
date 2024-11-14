@@ -15,24 +15,6 @@
 - 💬 **Ask Me About:** Software Design, Development, Debugging, Testing, Conterization, Coding 
 
 
-## 📈 My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikkashneupane&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=bikkashneupane&theme=radical)
-
-<table>
-  <tr style="display: flex;">
-    <td style="flex: 1; height: 200px; padding: 0;"><img src="https://github-readme-stats.vercel.app/api?username=bikkashneupane&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="400" height="200" /></td>
-    <td style="flex: 1; padding: 0;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&layout=compact&theme=radical" width="400" height="200" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding: 0; text-align: center;">
-      <img src="https://streak-stats.demolab.com/?user=bikkashneupane&theme=radical" width="800" height="200" />
-    </td>
-  </tr>
-</table>
-
 
 ## 🛠️ Technologies & Tools
 
@@ -103,20 +85,24 @@ Feel free to explore my repositories to find different range of projects from fu
 </p>
 
 
+## 📈 My GitHub Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikkashneupane&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bikkashneupane&theme=radical)
 
-<h3 align="left">📈 GitHub Stats:</h3>
-<table>
-  <tr>
-    <td>
-      <a href="http://www.github.com/bikkashneupane">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikkashneupane&stroke=ffffff&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
-      </a>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="display: flex;">
+    <td style="flex: 1; height: 200px; padding: 0; border-right: 2px solid #000;">
+      <img src="https://github-readme-stats.vercel.app/api?username=bikkashneupane&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="400" height="200" />
     </td>
-    <td>
-      <a href="https://github.com/bikkashneupane">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-      </a>
+    <td style="padding: 0; text-align: center;">
+      <img src="https://streak-stats.demolab.com/?user=bikkashneupane&theme=radical" width="800" height="200" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&layout=compact&theme=radical" width="400" height="200" />
     </td>
   </tr>
 </table>
