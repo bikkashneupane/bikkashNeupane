@@ -91,13 +91,3 @@ Feel free to explore my repositories to find different range of projects from fu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bikkashneupane&theme=radical)
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr style="display: flex;">
-    <td style="flex: 1; height: 200px; padding: 0; border-right: 2px solid #000;">
-      <img src="https://github-readme-stats.vercel.app/api?username=bikkashneupane&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="400" height="200" />
-    </td>
-    <td style="padding: 0; text-align: center;">
-      <img src="https://streak-stats.demolab.com/?user=bikkashneupane&theme=radical" width="800" height="200" />
-    </td>
-  </tr>
-</table>
