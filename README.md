@@ -86,6 +86,7 @@ Feel free to explore my repositories to find different range of projects from fu
 
 
 ## 📈 My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&layout=compact&theme=radical)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikkashneupane&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bikkashneupane&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&layout=compact&theme=radical)
+
