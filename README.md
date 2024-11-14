@@ -22,12 +22,14 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bikkashneupane&theme=radical)
 
 <table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=bikkashneupane&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="400" height="200" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&layout=compact&theme=radical" width="400" height="200" /></td>
+  <tr style="display: flex;">
+    <td style="flex: 1; height: 200px; padding: 0;"><img src="https://github-readme-stats.vercel.app/api?username=bikkashneupane&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="400" height="200" /></td>
+    <td style="flex: 1; padding: 0;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&layout=compact&theme=radical" width="400" height="200" /></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://streak-stats.demolab.com/?user=bikkashneupane&theme=radical" width="800" height="200" /></td>
+    <td colspan="2" style="padding: 0; text-align: center;">
+      <img src="https://streak-stats.demolab.com/?user=bikkashneupane&theme=radical" width="800" height="200" />
+    </td>
   </tr>
 </table>
 
