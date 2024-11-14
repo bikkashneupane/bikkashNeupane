@@ -100,9 +100,4 @@ Feel free to explore my repositories to find different range of projects from fu
       <img src="https://streak-stats.demolab.com/?user=bikkashneupane&theme=radical" width="800" height="200" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" style="padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&layout=compact&theme=radical" width="400" height="200" />
-    </td>
-  </tr>
 </table>
