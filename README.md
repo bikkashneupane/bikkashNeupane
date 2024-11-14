@@ -86,19 +86,6 @@ Feel free to explore my repositories to find different range of projects from fu
 
 
 ## 📈 My GitHub Stats
-<table style="border-collapse: collapse; width: 100%; height: 400px;">
-  <tr style="display: flex; height: 100%;">
-    <td style="flex: 1; padding: 0; height: 100%; border-right: 2px solid #000;">
-      <img src="https://github-readme-stats.vercel.app/api?username=bikkashneupane&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="400" height="100%" />
-    </td>
-    <td style="padding: 0; text-align: center; height: 100%;">
-      <img src="https://streak-stats.demolab.com/?user=bikkashneupane&theme=radical" width="800" height="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding: 0; height: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&layout=compact&theme=radical" width="100%" height="100%" />
-    </td>
-  </tr>
-</table>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikkashneupane&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bikkashneupane&theme=radical)
