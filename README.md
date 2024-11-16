@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bikash Neupane</h1>
 <h3 align="center">Full Stack Developer</h3>
+<a href="https://bikashneupane.com" target="_blank" align="center">Full Stack Developer</a>
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bikkashneupane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
