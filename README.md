@@ -14,7 +14,7 @@
 
 - 🌍 **Location:** NSW, Sydney, Australia
 - 🎓 **Education:** Bachelor's Degree in Information Technology
-- 🌱 **Learning:** Linux
+- 🌱 **Learning:** Linux, CI/CD
 - 💬 **Ask Me About:** Software Design, Development, Debugging, Testing, Conterization, Coding 
 
 
