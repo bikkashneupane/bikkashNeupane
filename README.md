@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bikash Neupane</h1>
-<h3 align="center">Full Stack Developer</h3>
-<p align="center">
- <a href="https://bikashneupane.com" target="_blank">🔗 Visit my Portfolio!!</a>
-</p>
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bikkashneupane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<h3 align="center">Software Engineerr</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy?theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=bikkashneupane" alt="bikkashneupane" /></a> </p>
 
 <img src="https://camo.githubusercontent.com/3492228fd9a698d24cbe02d7e013abc0fe70eebeda013e47dab443f61efe5013/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="1300" height="400" style="display: flex; margin-left: auto; margin-right: auto;" />
 
@@ -96,7 +92,5 @@ Feel free to explore my repositories to find different range of projects from fu
 
 
 ## 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikkashneupane&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=bikkashneupane&theme=radical)
 
