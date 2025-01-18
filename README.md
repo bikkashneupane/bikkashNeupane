@@ -13,7 +13,17 @@
 - 🌱 **Learning:** Linux, CI/CD
 - 💬 **Ask Me About:** Software Design, Development, Debugging, Testing, Conterization, Coding 
 
+## 📫 Lets Connect !!
 
+<p align="left">
+  <a href="https://linkedin.com/in/bikkashneupane" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+  </a>
+</p>
 
 ## 🛠️ Technologies & Tools
 
@@ -68,28 +78,6 @@
 ## 🚀 Projects
 
 Feel free to explore my repositories to find different range of projects from full stack complex projects to basic beginner friendly projects which are created using different tools which are stated in clear and concise documentation in each projects. 
-
-
-
-## 📫 Lets Connect !!
-
-<p align="left">
-  <a href="https://www.github.com/bikkashneupane" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://linkedin.com/in/bikkashneupane" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-  </a>
-</p>
-
 
 ## 📈 My GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&layout=compact&theme=radical)
