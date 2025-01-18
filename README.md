@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bikash Neupane</h1>
-<h3 align="center">Software Engineerr</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=bikkashneupane" alt="bikkashneupane" /></p>
 
