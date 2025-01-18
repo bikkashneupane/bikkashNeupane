@@ -11,7 +11,7 @@
 - 🌍 **Location:** NSW, Sydney, Australia
 - 🎓 **Education:** Bachelor's Degree in Information Technology
 - 🌱 **Learning:** Linux, CI/CD
-- 💬 **Ask Me About:** Software Design, Development, Debugging, Testing, Conterization, Coding 
+- 💬 **Ask Me About:** Software Design, Development, Debugging, Testing, Conterization 
 
 ## 📫 Lets Connect !!
 
@@ -64,10 +64,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-
-## 🚀 Projects
-
-Feel free to explore my repositories to find different range of projects from full stack complex projects to basic beginner friendly projects which are created using different tools which are stated in clear and concise documentation in each projects. 
 
 ## 📈 My GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikkashneupane&layout=compact&theme=radical)
