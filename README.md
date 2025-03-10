@@ -7,7 +7,7 @@
 
 - 🌍 **Location:** NSW, Sydney, Australia
 - 🎓 **Education:** Bachelor's Degree in Information Technology
-- 🌱 **Learning:** Linux, CI/CD
+- 🌱 **Learning:** Kubernetes, Linux, CI/CD
 - 💬 **Ask Me About:** Software Design, Development, Debugging, Testing, Conterization 
 
 ## 📫 Lets Connect !!
@@ -45,6 +45,7 @@
 ### DevOps and Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
